@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "CV"
    link: "MichaelMorrow_CV.pdf"
  - name: "Contact"

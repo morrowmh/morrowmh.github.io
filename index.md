@@ -6,40 +6,12 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hello! I'm a fourth-year Mathematics graduate student at the [University of Kentucky](https://math.as.uky.edu/). I obtained my B.S. in Mathematics from Central Washington University in 2019 and my M.S. in Mathematics from the University of Kentucky in 2021. My hobbies include playing the guitar, cycling, fishing, camping, chess, beer brewing, cooking and coding.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Research Interests
 
-## Research Interest
+I am focused on Computational Commutative Algebra and am working towards my Ph.D. under the supervision of [Dr. Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases and syzygies in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Teaching
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Algebra Prelim Solutions
