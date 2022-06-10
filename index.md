@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.png">
+<img class="profile-picture" src="/files/profile.png">
 
 Hello! I'm a fourth-year Mathematics graduate student at the [University of Kentucky](https://math.as.uky.edu/). I obtained my B.S. in Mathematics from Central Washington University in 2019 and my M.S. in Mathematics from the University of Kentucky in 2021. My hobbies include playing the guitar, cycling, fishing, camping, chess, beer brewing, cooking and coding.
 
@@ -14,4 +14,8 @@ I am focused on Computational Commutative Algebra and am working towards my Ph.D
 
 ## Teaching
 
+This fall I will be a recitation leader for Calc II. More information to come.
+
 ## Algebra Prelim Solutions
+
+While I was studying for my prelims, I wrote up several solutions for past exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links:
