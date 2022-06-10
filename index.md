@@ -24,6 +24,7 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
     <tr>
     <td><b>Jan:</b></td>
     <td>test</td>
+    <td>test2</td>
     </tr>
     <tr>
     <td><b>June:</b></td>
