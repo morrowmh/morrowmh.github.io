@@ -10,12 +10,15 @@ Hello! I'm a fourth-year Mathematics graduate student at the [University of Kent
 
 ## Research Interests
 
-I am focused on Computational Commutative Algebra and am working towards my Ph.D. under the supervision of [Dr. Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases and syzygies in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
+I am focused on Computational Commutative Algebra under the supervision of [Dr. Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases and syzygies in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
 
 ## Teaching
 
-This Fall 2022 I will be a recitation leader for Calc II. More information to come.
+This Fall (2022) I will be a recitation leader for Calc II. More information to come.
 
 ## Algebra Prelim Solutions
 
-While I was studying for my prelims, I wrote up several solutions for past Algebra exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links: (coming soon)
+While I was studying for my prelims, I wrote up several solutions for past Algebra exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links:
+
+* Jan: 2016
+* June: 2016

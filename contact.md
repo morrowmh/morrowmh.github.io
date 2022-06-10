@@ -3,24 +3,14 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## General Contact Information
+* Email: [michael.morrow@uky.edu](mailto:michael.morrow@uky.edu)
+* GitHub: [morrowmh](https://github.com/morrowmh)
+* Math.SE: [michael-morrow](https://math.stackexchange.com/users/732532/michael-morrow)
+* Phone: (upon request)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+## Office Address
+> Patterson Office Tower Room 722
+> 120 Patterson Drive
+> Lexington, Kentucky
+> 40506
