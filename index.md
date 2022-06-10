@@ -20,5 +20,12 @@ This Fall (2022) I will be a recitation leader for Calc II. More information to 
 
 While I was studying for my prelims, I wrote up several solutions for past Algebra exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links:
 
-* Jan: 2016
-* June: 2016
+<table>
+    <tr>
+    <td><b>Jan:</b></td>
+    <td>test</td>
+    </tr>
+    <tr>
+    <td><b>June:</b></td>
+    </tr>
+</table>

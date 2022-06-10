@@ -11,6 +11,9 @@ is_contact: true
 
 ## Office Address
 > Patterson Office Tower Room 722
+>
 > 120 Patterson Drive
+>
 > Lexington, Kentucky
+>
 > 40506
