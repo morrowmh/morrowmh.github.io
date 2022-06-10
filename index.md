@@ -14,8 +14,8 @@ I am focused on Computational Commutative Algebra and am working towards my Ph.D
 
 ## Teaching
 
-This fall I will be a recitation leader for Calc II. More information to come.
+This Fall 2022 I will be a recitation leader for Calc II. More information to come.
 
 ## Algebra Prelim Solutions
 
-While I was studying for my prelims, I wrote up several solutions for past exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links:
+While I was studying for my prelims, I wrote up several solutions for past Algebra exams. These solutions are missing some details and may not be completely correct, so they should be used as a guide only. You may download them all at once by clicking [here](https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016.zip), or view them in your browser by using the following links: (coming soon)
