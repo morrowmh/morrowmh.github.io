@@ -23,7 +23,7 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
 <table>
     <tr>
     <td><b>Jan:</b></td>
-    <td>test</td>
+    <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2016/Jan_2016_Algebra_Prelim_Solutions.pdf" target="_blank">2016</a></td>
     <td>test2</td>
     </tr>
     <tr>
