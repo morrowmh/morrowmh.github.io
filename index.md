@@ -30,7 +30,7 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
     <td>2015<sup>N/A</sup></td>
     </tr>
     <tr>
-    <td><b>June</b></td>
+    <td><b>Jun</b></td>
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/June_2019_Algebra_Prelim_Solutions.pdf" target="_blank">2019</a></td>
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/June_2018_Algebra_Prelim_Solutions.pdf" target="_blank">2018</a></td>
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/June_2017_Algebra_Prelim_Solutions.pdf" target="_blank">2017</a></td>
