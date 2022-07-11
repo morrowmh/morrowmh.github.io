@@ -10,7 +10,7 @@ Hello! I'm a fourth-year Mathematics graduate student at the [University of Kent
 
 ## Research Interests
 
-I am focused on Computational Commutative Algebra under the supervision of [Dr. Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases and syzygies in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
+I am focused on Computational Commutative Algebra under the supervision of [Dr. Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases, syzygies and free resolutions in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
 
 ## Teaching
 
