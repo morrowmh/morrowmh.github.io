@@ -9,8 +9,8 @@ is_contact: true
 * Math.SE: [michael-morrow](https://math.stackexchange.com/users/732532/michael-morrow)
 * Phone: (upon request)
 
-## Office Address
-> Patterson Office Tower Room 722
+## Office Mailing Address
+> 715 Patterson Office Tower
 >
 > 120 Patterson Drive
 >
