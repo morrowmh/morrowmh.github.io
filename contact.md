@@ -14,6 +14,6 @@ is_contact: true
 >
 > 120 Patterson Drive
 >
-> Lexington, Kentucky
+> Lexington, KY
 >
-> 40506
+> 40506 USA
