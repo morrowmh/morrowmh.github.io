@@ -13,7 +13,7 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/Jan_2018_Algebra_Prelim_Solutions.pdf" target="_blank">2018</a></td>
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/Jan_2017_Algebra_Prelim_Solutions.pdf" target="_blank">2017</a></td>
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/Jan_2016_Algebra_Prelim_Solutions.pdf" target="_blank">2016</a></td>
-    <td>2015<sup>N/A</sup></td>
+    <td>2015<sup>WIP</sup></td>
     </tr>
     <tr>
     <td><b>Jun</b></td>
@@ -24,3 +24,7 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
     <td><a href="https://michaelmorrow.org/files/Algebra_Prelim_Solutions_2019-2015/June_2015_Algebra_Prelim_Solutions.pdf" target="_blank">2015</a></td>
     </tr>
 </table>
+
+## Minimalistic Homework Template
+
+Click [here](https://michaelmorrow.org/files/Homework_Template.tex) for a minimalistic LaTeX homework template.
