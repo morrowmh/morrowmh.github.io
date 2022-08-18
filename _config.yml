@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Home"
    link: "/"
  - name: "CV"
    link: "/files/MichaelMorrow_CV.pdf"
