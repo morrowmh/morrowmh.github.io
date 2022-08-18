@@ -25,6 +25,8 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
     </tr>
 </table>
 
-## Minimalistic Homework Template
+## LaTeX Templates
 
-Click [here](https://michaelmorrow.org/files/Homework_Template.tex) for a minimalistic LaTeX homework template.
+Click [here](https://michaelmorrow.org/files/Homework_Template.tex) for a minimalistic homework template.
+
+Click [here](https://michaelmorrow.org/files/Recitation_Syllabus.tex) for a recitation syllabus template.
