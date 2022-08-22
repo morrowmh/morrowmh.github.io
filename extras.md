@@ -29,4 +29,4 @@ While I was studying for my prelims, I wrote up several solutions for past Algeb
 
 Click [here](https://michaelmorrow.org/files/Homework_Template.tex) for a minimalistic homework template.
 
-Click [here](https://michaelmorrow.org/files/Recitation_Syllabus_Template.tex) for a recitation syllabus template.
+Click [here](https://michaelmorrow.org/files/Recitation_Handout_Template.tex) for a recitation handout template.
