@@ -18,4 +18,4 @@ I am focused on Computational Commutative Algebra under the supervision of [Dr. 
 MA114 Recitation ↴
 - Section 003: CB201 11:00am-12:15pm Tu/Th
 - Section 004: CB342 12:30pm-1:45pm Tu/Th
-- [Syllabus](https://michaelmorrow.org/files/MA114_Fall2022_003-004_Recitation_Syllabus.pdf) (includes office hours and contact info)
+- [Handout](https://michaelmorrow.org/files/MA114_Fall22_003-004_Recitation_Handout.pdf) (includes office hours and contact info)
