@@ -14,6 +14,11 @@ I am focused on Computational Commutative Algebra under the supervision of [Dr. 
 
 ## Teaching
 
+### Spring 2023
+MA322 Matrix Algebra and its Applications ↴
+- Sec 005: CB335 12:00-12:50pm MWF
+- [Syllabus](https://michaelmorrow.org/files/MA322_S23_Syllabus.pdf)
+
 ### Fall 2022
 MA114 Recitation ↴
 - Sec 003: CB201 11:00am-12:15pm Tu/Th
