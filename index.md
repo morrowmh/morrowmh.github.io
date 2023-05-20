@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="/files/profile.png">
 
-Hello! I'm a fourth-year Mathematics graduate student at the [University of Kentucky](https://math.as.uky.edu/). I obtained my B.S. in Mathematics from Central Washington University in 2019 and my M.S. in Mathematics from the University of Kentucky in 2021. My hobbies include playing the guitar, cycling, fishing, camping, chess, beer brewing, cooking and coding.
+Hello! I'm a fifth-year Mathematics graduate student at the [University of Kentucky](https://math.as.uky.edu/). I obtained my B.S. in Mathematics from Central Washington University in 2019 and my M.S. in Mathematics from the University of Kentucky in 2021. My hobbies include playing the guitar, cycling, fishing, camping, chess, beer brewing, cooking and coding.
 
 ## Research
 
