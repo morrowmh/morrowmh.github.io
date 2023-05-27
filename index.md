@@ -10,7 +10,7 @@ I'm a fifth-year Mathematics graduate student at the [University of Kentucky](ht
 
 ## Research
 
-I am focused on computational and combinatorial commutative algebra under the supervision of [Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases, syzygies and free resolutions in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/abs/1710.09247) and [this paper](https://arxiv.org/pdf/2303.06725.pdf). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
+I am focused on computational and combinatorial commutative algebra under the supervision of [Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). Right now, I'm interested in the computation of Gröbner bases, syzygies and free resolutions in the setting of OI-modules over Noetherian polynomial OI-algebras. For an introduction to the topic, see [this paper](https://arxiv.org/pdf/1710.09247) and [this paper](https://arxiv.org/pdf/2303.06725.pdf). To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
 
 ### Papers
 1. Computing Gröbner Bases and Free Resolutions of OI-Modules, Preprint, arXiv:2303.06725, 2023, with U. Nagel. ([pdf](https://arxiv.org/pdf/2303.06725.pdf))
