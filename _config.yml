@@ -20,7 +20,5 @@ nav:
    link: "/"
  - name: "CV"
    link: "/files/MichaelMorrow_CV.pdf"
- - name: "Extras"
-   link: "extras"
  - name: "Contact"
    link: "contact"
