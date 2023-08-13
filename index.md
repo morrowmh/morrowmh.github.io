@@ -19,13 +19,13 @@ My research interests include computational and combinatorial commutative algebr
 ## Teaching
 
 ### Instructor of Record, University of Kentucky
-- (Sp23) Matrix Algebra
-- (Su21, Su20) College Algebra
+- Matrix Algebra (Sp23)
+- College Algebra (Su21, Su20)
 
 ### Recitation Leader, University of Kentucky
-- (Sp23 Lead TA, Sp20) Elementary Calculus
-- (Fa22) Calculus II
-- (Sp22) Calculus III
-- (Fa21) Calc for Life Sciences
-- (Sp21) Finite Math
-- (Fa20, Fa19) Algebra and Trig for Calculus
+- Elementary Calculus (Sp23 Lead TA, Sp20)
+- Calculus II (Fa22)
+- Calculus III (Sp22)
+- Calc for Life Sciences (Fa21)
+- Finite Math (Sp21)
+- Algebra and Trig for Calculus (Fa20, Fa19)
