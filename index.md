@@ -16,6 +16,9 @@ My research interests include computational and combinatorial commutative algebr
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
 <br>with U. Nagel, submitted, 2023. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
 
+- *The OIGroebnerBases Package for Macaulay2*
+<br>To appear on the arXiv.
+
 ## Teaching
 
 ### Instructor of Record, University of Kentucky
