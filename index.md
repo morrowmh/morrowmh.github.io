@@ -17,7 +17,7 @@ My research interests include computational and combinatorial commutative algebr
 <br>with U. Nagel, submitted, 2023. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
 
 - *The OIGroebnerBases Package for Macaulay2*
-<br>Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
+<br>submitted, 2023. Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
 
 ## Teaching
 
