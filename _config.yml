@@ -8,8 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/morrowmh"
-footer_text: "Find me on GitHub"
+footer_text: "©2024 Michael Morrow"
 
 sass:
     style: compressed
