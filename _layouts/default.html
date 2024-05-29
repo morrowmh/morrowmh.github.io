@@ -59,20 +59,8 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <div class="alignable pull-left">{{ site.title }}</div>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                {% for x in site.nav %}
-                    {% if x.name == "Resume" %}
-                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
-                    {% else %}
-                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-                    {% endif %}
-                    {% if forloop.last == false %}
-                        /
-                    {% endif %}
-                        </li>
-                {% endfor %}
-            </ul>
+            <div id="author-name" class="alignable pull-left">{{ site.title }}</div>
+            <div class="alignable pull-right">Test</div>
         </div>
         <div style="clear:both"></div>
         <hr>
