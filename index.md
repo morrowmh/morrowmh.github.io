@@ -19,7 +19,7 @@ My research interests include computational and combinatorial commutative algebr
 
 ### Software
 - *OIGroebnerBases.m2*
-<br>a Macaulay2 package for working with OI-modules over OI-algebras. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official [Macaulay2](https://www.macaulay2.com/) software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
+<br>a Macaulay2 package for working with OI-modules over OI-algebras, 2023. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official [Macaulay2](https://www.macaulay2.com/) software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
 
 ### Papers
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
@@ -27,3 +27,13 @@ My research interests include computational and combinatorial commutative algebr
 
 - *The OIGroebnerBases Package for Macaulay2*
 <br>submitted, 2023. Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
+
+## Current Projects
+
+### Software
+- *FIResolutions.m2*
+<br> a Macaulay2 package for computing free FI-resolutions over FI-algebras. Available [on GitHub](https://github.com/morrowmh/FIResolutions).
+
+### Papers
+- *Symmetric Free Resolutions*
+<br> with U.Nagel, in preparation.
