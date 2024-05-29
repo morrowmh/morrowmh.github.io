@@ -14,10 +14,6 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "Home"
-   link: "/"
- - name: "CV"
-   link: "/files/MichaelMorrow_CV.pdf"
- - name: "Contact"
-   link: "contact"
+#nav:
+# - name: "Home"
+#   link: "/"
