@@ -13,7 +13,7 @@ My research interests include computational and combinatorial commutative algebr
 
 - **Email:** michaelhmorrow98@gmail(dot)com
 - **GitHub:** [morrowmh](https://github.com/morrowmh)
-- **LinkedIn:** [in/michaelhmorrow98/](https://www.linkedin.com/in/michaelhmorrow98/)
+- **LinkedIn:** [in/michaelhmorrow98](https://www.linkedin.com/in/michaelhmorrow98/)
 
 ## Completed Projects
 
