@@ -36,4 +36,4 @@ My research interests include computational and combinatorial commutative algebr
 
 ### Papers
 - *Symmetric Free Resolutions*
-<br> with U.Nagel, in preparation.
+<br> with U. Nagel, in preparation.
