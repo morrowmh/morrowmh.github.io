@@ -11,15 +11,15 @@ I am originally from Washington State, where I pursued my undergraduate studies 
 My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source software system [Macaulay2](https://www.macaulay2.com/).
 
 
-**Email:** michaelhmorrow98@gmail(dot)com
-**GitHub:** [github.com/morrowmh](https://github.com/morrowmh)
-**LinkedIn:** [linkedin.com/in/michaelhmorrow98/](https://www.linkedin.com/in/michaelhmorrow98/)
+- **Email:** michaelhmorrow98@gmail(dot)com
+- **GitHub:** [github.com/morrowmh](https://github.com/morrowmh)
+- **LinkedIn:** [linkedin.com/in/michaelhmorrow98/](https://www.linkedin.com/in/michaelhmorrow98/)
 
 ## Completed Projects
 
 ### Software
 - *OIGroebnerBases.m2*
-<br>a Macaulay2 package for working with OI-modules over OI-algebras. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official Macaulay2 software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
+<br>a Macaulay2 package for working with OI-modules over OI-algebras. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official [Macaulay2](https://www.macaulay2.com/) software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
 
 ### Papers
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
