@@ -6,11 +6,20 @@ layout: default
 
 <img class="profile-picture" src="/files/profile.png">
 
-I'm a fifth-year Mathematics graduate student at the [University of Kentucky](https://math.as.uky.edu/) working under the supervision of [Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). I obtained my B.S. in Mathematics from Central Washington University in 2019 and my M.S. in Mathematics from the University of Kentucky in 2021.
+I am originally from Washington State, where I pursued my undergraduate studies at [Central Washington University](https://www.cwu.edu/), earning a B.S. in Mathematics in 2019. Following that, I completed my Ph.D. in Mathematics at the [University of Kentucky](https://math.as.uky.edu/) in 2024, under the guidance of [Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). 
 
-## Research
+My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source software system [Macaulay2](https://www.macaulay2.com/).
 
-My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. My recent work involves the computation of Gröbner bases and syzygies in the setting of OI-modules over Noetherian polynomial OI-algebras. To facilitate this computation, I have written the Macaulay2 package "OIGroebnerBases.m2" which can be found on my [GitHub](https://github.com/morrowmh/OIGroebnerBases).
+
+**Email:** michaelhmorrow98@gmail(dot)com
+**GitHub:** [github.com/morrowmh](https://github.com/morrowmh)
+**LinkedIn:** [linkedin.com/in/michaelhmorrow98/](https://www.linkedin.com/in/michaelhmorrow98/)
+
+## Completed Projects
+
+### Software
+- *OIGroebnerBases.m2*
+<br>a Macaulay2 package for working with OI-modules over OI-algebras. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official Macaulay2 software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
 
 ### Papers
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
@@ -18,18 +27,3 @@ My research interests include computational and combinatorial commutative algebr
 
 - *The OIGroebnerBases Package for Macaulay2*
 <br>submitted, 2023. Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
-
-## Teaching
-
-### Instructor of Record, University of Kentucky
-- Contemporary Math (Sp24)
-- Matrix Algebra (Sp23)
-- College Algebra (Su21, Su20)
-
-### Recitation Leader, University of Kentucky
-- Elementary Calculus (Fa23 Lead TA, Sp20)
-- Calculus II (Fa22)
-- Calculus III (Sp22)
-- Calc for Life Sciences (Fa21)
-- Finite Math (Sp21)
-- Algebra and Trig for Calculus (Fa20, Fa19)
