@@ -8,7 +8,7 @@ layout: default
 
 I am originally from Washington State, where I pursued my undergraduate studies at [Central Washington University](https://www.cwu.edu/), earning a B.S. in Mathematics in 2019. Following that, I completed my Ph.D. in Mathematics at the [University of Kentucky](https://math.as.uky.edu/) in 2024, under the guidance of [Uwe Nagel](http://www.ms.uky.edu/~uwenagel/). 
 
-My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source software system [Macaulay2](https://www.macaulay2.com/).
+My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source mathematical software system [Macaulay2](https://www.macaulay2.com/).
 
 ### Contact Me
 
