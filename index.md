@@ -32,6 +32,9 @@ My research interests include computational and combinatorial commutative algebr
 ## Current Projects
 
 ### Software
+- *Nametags*
+<br> a Discord bot written in Python for managing user introductions. Available [on GitHub](https://github.com/morrowmh/Nametags).
+
 - *FIResolutions.m2*
 <br> a Macaulay2 package for computing free FI-resolutions over FI-algebras. Available [on GitHub](https://github.com/morrowmh/FIResolutions).
 
