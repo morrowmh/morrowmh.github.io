@@ -10,7 +10,7 @@ I am originally from Washington State, where I pursued my undergraduate studies 
 
 My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source mathematical software system [Macaulay2](https://www.macaulay2.com/).
 
-My current interests include Python, SQL, and automation technology. For instance, my latest project is [Nametags](https://github.com/morrowmh/Nametags), an open-source Discord bot written in Python and SQLite for managing user introductions.
+My current interests include Python, SQL, and automation technology. For instance, my latest project is [Nametags](https://github.com/morrowmh/Nametags), an open-source Discord bot written in Python for managing user introductions.
 
 ### Contact Me
 
@@ -22,7 +22,7 @@ My current interests include Python, SQL, and automation technology. For instanc
 
 ### Software
 - *Nametags*
-<br> a Discord bot written in Python and SQLite for managing user introductions. Available [on GitHub](https://github.com/morrowmh/Nametags).
+<br> a Discord bot written in Python for managing user introductions. Available [on GitHub](https://github.com/morrowmh/Nametags).
 
 - *OIGroebnerBases.m2*
 <br>a Macaulay2 package for working with OI-modules over OI-algebras, 2023. Available [on GitHub](https://github.com/morrowmh/OIGroebnerBases) and as part of the official [Macaulay2](https://www.macaulay2.com/) software system as of version [1.23](https://www.macaulay2.com/doc/Macaulay2/share/doc/Macaulay2/Macaulay2Doc/html/_changes_cm_sp1.23.html).
