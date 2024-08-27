@@ -60,7 +60,7 @@
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
-            <div id="author-name" class="alignable pull-left">{{ site.title }}</div>
+            <div id="author-name" class="alignable pull-left authorname">{{ site.title }}&#10;<div id="author-subtitle" class="authorsubtitle">{{ site.subtitle }}</div></div>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}

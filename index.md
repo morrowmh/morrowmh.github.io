@@ -10,7 +10,7 @@ I am originally from Washington State, where I pursued my undergraduate studies 
 
 My research interests include computational and combinatorial commutative algebra, and asymptotic algebra. In my dissertation, which can be downloaded [here](https://uknowledge.uky.edu/math_etds/114/), I developed computational techniques for working with OI-modules over Noetherian polynomial OI-algebras. I have implemented my algorithms in the package [OIGroebnerBases](https://github.com/morrowmh/OIGroebnerBases) for the open-source mathematical software system [Macaulay2](https://www.macaulay2.com/).
 
-My current interests include Python, SQL, and automation technology. For instance, my latest project is [Nametags](https://github.com/morrowmh/Nametags), an open-source Discord bot written in Python for managing user introductions.
+I'm currently interested in software development, data engineering, and automation, utilizing languages such as Python and SQL.
 
 ### Contact Me
 
@@ -29,7 +29,7 @@ My current interests include Python, SQL, and automation technology. For instanc
 
 ### Papers
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
-<br>with U. Nagel, submitted, 2023. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
+<br>with U. Nagel, accepted by [Journal of Algebra](https://www.sciencedirect.com/journal/journal-of-algebra), 2023. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
 
 - *The OIGroebnerBases Package for Macaulay2*
 <br>submitted, 2023. Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
