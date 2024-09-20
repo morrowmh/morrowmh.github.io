@@ -29,7 +29,7 @@ I'm currently interested in software development, data engineering, and automati
 
 ### Papers
 - *Computing Gröbner Bases and Free Resolutions of OI-Modules*
-<br>with U. Nagel, accepted by [Journal of Algebra](https://www.sciencedirect.com/journal/journal-of-algebra), 2023. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
+<br>with U. Nagel, J. Algebra **662** (2025), pp. 702-723. Available at [arXiv:2303.06725](https://arxiv.org/abs/2303.06725).
 
 - *The OIGroebnerBases Package for Macaulay2*
 <br>submitted, 2023. Available at [arXiv:2310.04891](https://arxiv.org/abs/2310.04891).
